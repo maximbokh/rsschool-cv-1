@@ -5,10 +5,7 @@
 * Email: misterceovc@gmail.com
 * Phone: +7(707)847-55-90
 
-***
 Now I'm working in IT Department of International Kazakh-Turkish University at small projects using frontend framework Vue. Likewise worked with WordPress, Open Journal Systems and different CMS softwares. And created LAMP server with auto update SSL. My goal is to learn frontend technologies to be a senior developer. Also I like backend with Node.js, C++. But first I want to be a pro developer for client side with my design talents. I spend almost all time watching lectures, reading articles, tricks, tutorials and collecting best practices.
-
-***
 
 ## Skills
 * HTML5
