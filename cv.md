@@ -9,13 +9,13 @@
 Now I'm working in IT Department of International Kazakh-Turkish University at small projects using frontend framework Vue. Likewise worked with WordPress, Open Journal Systems and different CMS softwares. And created LAMP server with auto update SSL. My goal is to learn frontend technologies to be a senior developer. Also I like backend with Node.js, C++. But first I want to be a pro developer for client side with my design talents. I spend almost all time watching lectures, reading articles, tricks, tutorials and collecting best practices.
 
 ## Skills
-* HTML5
-* CSS3 / SCSS
+* HTML5 / Semantic HTML
+* CSS3 / SCSS / Custom scoped styles in Vue Components
 * JS / ES6+
 * Vue / Vue CLI / Vue Router / Vuex
 * Git / GitHub
-* Adobe Illustrator
 * Windows / Linux
+* Adobe Illustrator
 
 ## Code Examples
 ```javascript
@@ -37,12 +37,12 @@ function lcm(a, b) {
 ## Projects
 * [Simple multi language Landing Page with animations (Vue + VueI18n)](https://github.com/9a6it/timeline)
 * [Template for Pass Cards](https://github.com/9a6it/card)
-* [Simple custom UI library](https://github.com/9a6it/standard)
+* [Simple custom UI Library for myself](https://github.com/9a6it/standard)
 * [Notes - Simple Web App with Vue](https://github.com/9a6it/notes)
 
 ## Experience
-* Since 2021 working in IT-Department at International Kazakh-Turkish University as Lead Web Developer
-* 2018 - 2021: worked as fullstack developer with CMS softwares (WordPress, OpenCart)
+* Since 2021: working in IT-Department at International Kazakh-Turkish University as Lead Web Developer
+* 2018 - 2021: worked as fullstack developer with CMS softwares (WordPress, OpenCart) and designer of pages, posts and banners
 
 ## Education
 * 2018 - 2022: Udemy, YouTube, ITVDN and etc.
