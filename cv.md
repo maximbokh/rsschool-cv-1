@@ -5,6 +5,7 @@
 * Email: misterceovc@gmail.com
 * Phone: +7(707)847-55-90
 
+## About Me
 Now I'm working in IT Department of International Kazakh-Turkish University at small projects using frontend framework Vue. Likewise worked with WordPress, Open Journal Systems and different CMS softwares. And created LAMP server with auto update SSL. My goal is to learn frontend technologies to be a senior developer. Also I like backend with Node.js, C++. But first I want to be a pro developer for client side with my design talents. I spend almost all time watching lectures, reading articles, tricks, tutorials and collecting best practices.
 
 ## Skills
@@ -16,7 +17,7 @@ Now I'm working in IT Department of International Kazakh-Turkish University at s
 * Adobe Illustrator
 * Windows / Linux
 
-# Code Examples
+## Code Examples
 ```javascript
 // greatest common divisor
 function gcd(a, b) {
@@ -33,17 +34,17 @@ function lcm(a, b) {
 }
 ```
 
-# Projects
+## Projects
 * [Simple multi language Landing Page with animations (Vue + VueI18n)](https://github.com/9a6it/timeline)
 * [Template for Pass Cards](https://github.com/9a6it/card)
 * [Simple custom UI library](https://github.com/9a6it/standard)
 * [Notes - Simple Web App with Vue](https://github.com/9a6it/notes)
 
-# Experience
+## Experience
 * Since 2021 working in IT-Department at International Kazakh-Turkish University as Lead Web Developer
 * 2018 - 2021: worked as fullstack developer with CMS softwares (WordPress, OpenCart)
 
-# Education
+## Education
 * 2018 - 2022: Udemy, YouTube, ITVDN and etc.
    * HTML, CSS, JS, ES6+, Git, Linux, Vue and etc.
 * 2014 - 2015: International Academy of Business (Almaty Management University)
@@ -51,7 +52,7 @@ function lcm(a, b) {
 * 2009 - 2013: International Kazakh-Turkish University
    * Bachelor of Economics
 
-# Languages
+## Languages
 * Kazakh - native
 * Russian - C2
 * English - A2
